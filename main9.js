@@ -8,6 +8,6 @@ addEventListener("DOMContentLoaded",()=>{
     volumen=((pi*r**2)*h)
 
     console.log(`El area del cilindro es de: ${area}`)
-    console.log(`El volumen del ciliindro es de: ${volumen}`)
+    console.log(`El volumen del cilindro es de: ${volumen}`)
 
 })
